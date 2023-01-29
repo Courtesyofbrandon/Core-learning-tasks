@@ -1,3 +1,2 @@
 # Wiki Page
-Repository containing all of my tasks.
-Core Learning Tasks
+My first little project, creating a wiki page based off dogs
